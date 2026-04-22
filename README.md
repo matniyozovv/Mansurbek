@@ -1,18 +1,15 @@
 <div align="center">
-  <!-- 🌊 Animatsiyali to'lqinli fon (Sanjarbeknikidan ham zor) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=280&section=header&text=Mansurbek%20Matniyozov&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%20Designer&descSize=22&descAlignY=58&fontColor=ffffff"/>
+  <!-- 🌊 Ism to'liq ko'rinishi uchun fontSize kichraytirildi -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=260&section=header&text=Mansurbek%20Matniyozov&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%20Designer&descSize=20&descAlignY=58&fontColor=ffffff"/>
 
   <br/>
 
-  <!-- ✨ Yorqin slogan -->
   <p align="center">
     <font size="5"><b>"Clean code, clean mind" 🧠✨</b></font>
   </p>
 
-  <!-- ⌨️ Dinamik typing effekt -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F09819&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Designer;15%2B+Certifications+Earned;3%2B+Years+of+Coding+Experience;Building+Clean+%26+Modern+Websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F09819&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Designer;15%2B+Certifications+Earned;3%2B+Years+of+Coding+Experience" />
 
-  <!-- 📊 Statistik badge'lar -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=matniyozovv&label=Profile%20Views&color=F09819&style=for-the-badge" />
     <img src="https://img.shields.io/github/followers/matniyozovv?label=Followers&style=for-the-badge&color=FF512F&logo=github" />
@@ -26,9 +23,9 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5ZjgwdGZudDZoeG83cjM3emMyMTdrZWJhamVmejM2N3VlMTBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="340" style="border-radius: 25px; margin-left: 30px; border: 3px solid #F09819;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5ZjgwdGZudDZoeG83cjM3emMyMTdrZWJhamVmejM2N3VlMTBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="320" style="border-radius: 20px; margin-left: 30px; border: 3px solid #F09819;"/>
 
-**Salom! Men Mansurbek Matniyozov** — Xorazmdan kelgan Full-Stack dasturchi va UI dizayner. 
+**Salom! Men Mansurbek Matniyozov** — Xorazmdan kelgan Full-Stack dasturchi va UI dizayner.
 
 - 🎓 **15+ sertifikat** egasi
 - 💼 **3 yillik** tajriba
@@ -36,7 +33,7 @@
 - 🎨 **UI/UX** ga alohida e'tibor
 - 📍 **Khorazm, Uzbekistan** da yashayman
 
-> *"Clean code, clean mind" — bu mening kredoim. Har bir loyihamda toza kod va chiroyli dizayn kombinatsiyasiga intilaman.*
+> *"Clean code, clean mind" — mening kredoim.*
 
 </p>
 
@@ -44,22 +41,22 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| **Frontend Core** | **Backend & Logic** | **Design & Tools** |
+| **Frontend** | **Backend** | **Design & Tools** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,java" /> | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,java" /> | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" /> |
 
 </div>
 
 ---
 
-### 🏆 Certifications & Achievements
+### 🏆 Certifications
 
 <div align="center">
-
+  
 </div>
 
 ---
@@ -117,6 +114,5 @@
   
   <p>⚡ <i>Designing digital impact, one commit at a time.</i></p>
 
-  <!-- 🌊 Pastki animatsiyali fon -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=100&section=footer" />
 </div>
