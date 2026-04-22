@@ -31,8 +31,8 @@
           <li>💼 <b>3 yillik</b> tajriba</li>
           <li>🚀 <b>20+ GitHub repository</b></li>
           <li>🎨 <b>UI/UX</b> ga alohida e'tibor</li>
-          <li>📍 <b>Khiva, Khorazm, Uzbekistan</b> da yashayman</li>
-          <li>💬 <b>Kredo:</b> <i>"Clean code, clean mind"</i></li>
+          <li>📍  <b> Khorazm, Khiva</b> da yashayman</li>
+          <li>💬 <b>Shior:</b> <i>"Clean code, clean mind"</i></li>
         </ul>
       </td>
       <td width="45%">
@@ -50,7 +50,7 @@
 
 | **Frontend** | **UI Design** |
 | :---: | :---: |
-| HTML, CSS, JavaScript<br/>React, Next.js | Figma |
+| JavaScript, HTML, CSS,<br/>React | Figma, Github |
 
 </div>
 
