@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5ZjgwdGZudDZoeG83cjM3emMyMTdrZWJhamVmejM2N3VlMTBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px; border: 3px solid #00C9FF;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px; border: 3px solid #00C9FF;" />
     </td>
   </tr>
 </table>
