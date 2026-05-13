@@ -155,6 +155,6 @@
 
 <!-- 🌊 FUTURISTIC FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:00C9FF,75:005bea,100:00F260&height=100&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:00C9FF,75:005bea,100:00F260&height=150&section=footer&animation=twinkling" width="100%" />
 
 </div>
