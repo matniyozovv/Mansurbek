@@ -10,7 +10,7 @@
 </p>
 
 <!-- 🔥 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00C9FF&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;Frontend+Developer;UI-Designer;15%2B+Certifications;3%2B+Years+Experience;Khiva+Based+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00C9FF&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;Frontend+Developer;15%2B+Certifications;3%2B+Years+Experience;Khiva+Based+Developer" />
 
 <!-- 📊 STATS BADGES -->
 <p align="center">
