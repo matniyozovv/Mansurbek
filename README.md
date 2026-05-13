@@ -1,21 +1,34 @@
 <div align="center">
 
-<!-- 🌊 ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Mansurbek%20Matniyozov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%20DESIGNER&descSize=18&descAlignY=55" />
+<!-- 🔥 ULTRA ANIMATED CYBER HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:00C9FF,75:005bea,100:00F260&height=320&section=header&animation=twinkling&fontColor=ffffff&text=Mansurbek%20Matniyozov&fontSize=55&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%20DESIGNER&descSize=20&descAlignY=55" />
+
+<!-- 💻 FUTURISTIC TYPING EFFECT -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer;React+%7C+Tailwind+%7C+NodeJS;UI%2FUX+Designer;Building+Modern+Web+Experiences;Khiva+Based+Developer" />
+
+<!-- 🐍 SNAKE CONTRIBUTION ANIMATION -->
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<!-- 💻 CODING GIF -->
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" style="border-radius:20px;" />
 
 <br/>
 
-<p align="center">
-  <b>✨ "Clean code, clean mind" 🧠✨</b>
+<p align="center"> 
+  <b>⚡ "Clean code, clean mind" ⚡</b>
 </p>
 
-<!-- 🔥 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00C9FF&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;Frontend+Developer;15%2B+Certifications;3%2B+Years+Experience;Khiva+Based+Developer" />
-
 <!-- 📊 STATS BADGES -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matniyozovv&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
+  
   <img src="https://img.shields.io/github/followers/matniyozovv?label=Followers&style=for-the-badge&color=00C9FF&logo=github" />
+  
   <img src="https://img.shields.io/badge/Location-Khiva%2C%20Khorazm-00C9FF?style=for-the-badge" />
 </p>
 
@@ -106,6 +119,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=matniyozovv&theme=algolia&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -130,6 +153,8 @@
 
 ## ⚡ “Build. Break. Improve. Repeat.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:5B86E5&height=120&section=footer" />
+<!-- 🌊 FUTURISTIC FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:00C9FF,75:005bea,100:00F260&height=180&section=footer&animation=twinkling" width="100%" />
 
 </div>
