@@ -2,7 +2,7 @@
 
 <!-- 🔥 ULTRA ANIMATED CYBER HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:00C9FF,75:005bea,100:00F260&height=320&section=header&animation=twinkling&fontColor=ffffff&text=Mansurbek%20Matniyozov&fontSize=55&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%20DESIGNER&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:00C9FF,75:005bea,100:00F260&height=300,width=100%&section=header&animation=twinkling&fontColor=ffffff&text=Mansurbek%20Matniyozov&fontSize=55&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%20DESIGNER&descSize=20&descAlignY=55" />
 
 <!-- 💻 FUTURISTIC TYPING EFFECT -->
 
